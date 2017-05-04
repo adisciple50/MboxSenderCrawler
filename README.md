@@ -1,7 +1,7 @@
 # MboxSenderCrawler
 Utility To Display And Save A List Of Email Senders From A Given .Mbox File
 
-Just Run The Script And it will bring up a file picker dialogue.
+Just Run The Script And it will bring up a file picker dialogue. a 'senders.list' file will appear in the same directory as 'main.py'
 
 this works for google's takeout service. useful for grabbing a list of people who know your email address, 
 and a list of domains you may have to notify of a change of address.
